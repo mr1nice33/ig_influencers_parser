@@ -1,6 +1,8 @@
 # ig_influencers_parser
 Telegram bot for parsing followers &amp; likers &amp; taggers by instagram account link.
 
+Used frameworks: Telethon, pymongo
+
 Script goes by fake account to the ig link and parses user followers, people who liked the user media and people who tagged themselves in the user account.
 
 <p float="left">
